@@ -2,4 +2,4 @@
 .virtual_documents
 .ipynb_checkpoints
 unsloth_compiled_cache
-outputs/
+**outputs**/
